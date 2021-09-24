@@ -3,6 +3,9 @@ c-sharp-tasks
 
 My c-sharp tasks
 
+!!! Open gitbash from a specific folder by right-clicking the folder and choosing the appropriate action.
+---------------------------------------------------------------------------------------------------------
+
 GIT
 ---
 
