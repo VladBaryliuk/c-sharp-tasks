@@ -1,0 +1,12 @@
+D:\Программирование\C# projects\simple_captcha\simple_captcha\bin\Debug\netcoreapp3.1\simple_captcha.exe
+D:\Программирование\C# projects\simple_captcha\simple_captcha\bin\Debug\netcoreapp3.1\simple_captcha.deps.json
+D:\Программирование\C# projects\simple_captcha\simple_captcha\bin\Debug\netcoreapp3.1\simple_captcha.runtimeconfig.json
+D:\Программирование\C# projects\simple_captcha\simple_captcha\bin\Debug\netcoreapp3.1\simple_captcha.runtimeconfig.dev.json
+D:\Программирование\C# projects\simple_captcha\simple_captcha\bin\Debug\netcoreapp3.1\simple_captcha.dll
+D:\Программирование\C# projects\simple_captcha\simple_captcha\bin\Debug\netcoreapp3.1\simple_captcha.pdb
+D:\Программирование\C# projects\simple_captcha\simple_captcha\obj\Debug\netcoreapp3.1\simple_captcha.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\simple_captcha\simple_captcha\obj\Debug\netcoreapp3.1\simple_captcha.AssemblyInfo.cs
+D:\Программирование\C# projects\simple_captcha\simple_captcha\obj\Debug\netcoreapp3.1\simple_captcha.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\simple_captcha\simple_captcha\obj\Debug\netcoreapp3.1\simple_captcha.dll
+D:\Программирование\C# projects\simple_captcha\simple_captcha\obj\Debug\netcoreapp3.1\simple_captcha.pdb
+D:\Программирование\C# projects\simple_captcha\simple_captcha\obj\Debug\netcoreapp3.1\simple_captcha.genruntimeconfig.cache

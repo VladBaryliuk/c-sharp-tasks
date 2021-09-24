@@ -1,0 +1,16 @@
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\finding_word.exe
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\finding_word.deps.json
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\finding_word.runtimeconfig.json
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\finding_word.runtimeconfig.dev.json
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\finding_word.dll
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\ref\finding_word.dll
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\bin\Debug\net5.0\finding_word.pdb
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.csprojAssemblyReference.cache
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.AssemblyInfo.cs
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.dll
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\ref\finding_word.dll
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.pdb
+D:\Программирование\C# projects\05.09.2021-methods\finding_word\obj\Debug\net5.0\finding_word.genruntimeconfig.cache

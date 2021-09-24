@@ -1,0 +1,16 @@
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\number_of_words.exe
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\number_of_words.deps.json
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\number_of_words.runtimeconfig.json
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\number_of_words.runtimeconfig.dev.json
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\number_of_words.dll
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\ref\number_of_words.dll
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\bin\Debug\net5.0\number_of_words.pdb
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.csprojAssemblyReference.cache
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.AssemblyInfo.cs
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.dll
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\ref\number_of_words.dll
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.pdb
+D:\Программирование\C# projects\19.09.2021-Hometask\number_of_words\obj\Debug\net5.0\number_of_words.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\sorting.exe
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\sorting.deps.json
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\sorting.runtimeconfig.json
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\sorting.runtimeconfig.dev.json
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\sorting.dll
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\ref\sorting.dll
+D:\Программирование\C# projects\sorting\bin\Debug\net5.0\sorting.pdb
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.csprojAssemblyReference.cache
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.AssemblyInfo.cs
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.dll
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\ref\sorting.dll
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.pdb
+D:\Программирование\C# projects\sorting\obj\Debug\net5.0\sorting.genruntimeconfig.cache

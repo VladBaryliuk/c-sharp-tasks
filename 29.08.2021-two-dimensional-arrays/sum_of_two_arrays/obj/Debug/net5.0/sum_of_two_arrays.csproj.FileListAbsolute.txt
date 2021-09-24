@@ -1,0 +1,16 @@
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\sum_of_two_arrays.exe
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\sum_of_two_arrays.deps.json
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\sum_of_two_arrays.runtimeconfig.json
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\sum_of_two_arrays.runtimeconfig.dev.json
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\sum_of_two_arrays.dll
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\ref\sum_of_two_arrays.dll
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\bin\Debug\net5.0\sum_of_two_arrays.pdb
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.csprojAssemblyReference.cache
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.AssemblyInfo.cs
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.dll
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\ref\sum_of_two_arrays.dll
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.pdb
+D:\Программирование\C# projects\29.08.2021-two-dimensional-arrays\sum_of_two_arrays\obj\Debug\net5.0\sum_of_two_arrays.genruntimeconfig.cache

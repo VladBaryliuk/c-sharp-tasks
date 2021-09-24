@@ -1,0 +1,16 @@
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\elements_that_bigger5.exe
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\elements_that_bigger5.deps.json
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\elements_that_bigger5.runtimeconfig.json
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\elements_that_bigger5.runtimeconfig.dev.json
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\elements_that_bigger5.dll
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\ref\elements_that_bigger5.dll
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\bin\Debug\net5.0\elements_that_bigger5.pdb
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.csprojAssemblyReference.cache
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.AssemblyInfo.cs
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.dll
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\ref\elements_that_bigger5.dll
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.pdb
+D:\Программирование\C# projects\05.09.2021-Hometask\elements_that_bigger5\obj\Debug\net5.0\elements_that_bigger5.genruntimeconfig.cache

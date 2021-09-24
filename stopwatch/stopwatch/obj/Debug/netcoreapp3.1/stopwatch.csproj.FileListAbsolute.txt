@@ -1,0 +1,13 @@
+D:\Программирование\C# projects\stopwatch\stopwatch\bin\Debug\netcoreapp3.1\stopwatch.exe
+D:\Программирование\C# projects\stopwatch\stopwatch\bin\Debug\netcoreapp3.1\stopwatch.deps.json
+D:\Программирование\C# projects\stopwatch\stopwatch\bin\Debug\netcoreapp3.1\stopwatch.runtimeconfig.json
+D:\Программирование\C# projects\stopwatch\stopwatch\bin\Debug\netcoreapp3.1\stopwatch.runtimeconfig.dev.json
+D:\Программирование\C# projects\stopwatch\stopwatch\bin\Debug\netcoreapp3.1\stopwatch.dll
+D:\Программирование\C# projects\stopwatch\stopwatch\bin\Debug\netcoreapp3.1\stopwatch.pdb
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.csprojAssemblyReference.cache
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.AssemblyInfo.cs
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.dll
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.pdb
+D:\Программирование\C# projects\stopwatch\stopwatch\obj\Debug\netcoreapp3.1\stopwatch.genruntimeconfig.cache

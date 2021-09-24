@@ -1,0 +1,13 @@
+D:\Программирование\C# projects\plus_minus\plus_minus\bin\Debug\netcoreapp3.1\plus_minus.exe
+D:\Программирование\C# projects\plus_minus\plus_minus\bin\Debug\netcoreapp3.1\plus_minus.deps.json
+D:\Программирование\C# projects\plus_minus\plus_minus\bin\Debug\netcoreapp3.1\plus_minus.runtimeconfig.json
+D:\Программирование\C# projects\plus_minus\plus_minus\bin\Debug\netcoreapp3.1\plus_minus.runtimeconfig.dev.json
+D:\Программирование\C# projects\plus_minus\plus_minus\bin\Debug\netcoreapp3.1\plus_minus.dll
+D:\Программирование\C# projects\plus_minus\plus_minus\bin\Debug\netcoreapp3.1\plus_minus.pdb
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.AssemblyInfo.cs
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.dll
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.pdb
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.genruntimeconfig.cache
+D:\Программирование\C# projects\plus_minus\plus_minus\obj\Debug\netcoreapp3.1\plus_minus.csprojAssemblyReference.cache

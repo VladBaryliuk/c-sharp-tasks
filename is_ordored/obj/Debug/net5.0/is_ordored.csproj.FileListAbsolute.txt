@@ -1,0 +1,16 @@
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\is_ordored.exe
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\is_ordored.deps.json
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\is_ordored.runtimeconfig.json
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\is_ordored.runtimeconfig.dev.json
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\is_ordored.dll
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\ref\is_ordored.dll
+D:\Программирование\C# projects\is_ordored\bin\Debug\net5.0\is_ordored.pdb
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.csprojAssemblyReference.cache
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.AssemblyInfoInputs.cache
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.AssemblyInfo.cs
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.csproj.CoreCompileInputs.cache
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.dll
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\ref\is_ordored.dll
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.pdb
+D:\Программирование\C# projects\is_ordored\obj\Debug\net5.0\is_ordored.genruntimeconfig.cache
